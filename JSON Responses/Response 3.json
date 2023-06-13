@@ -1,0 +1,22 @@
+{
+    "id": "648770a6882d0a000931e1e3",
+    "createdDate": "2023-06-12",
+    "email": "testadminexample@gmail.com",
+    "familyName": "Example",
+    "givenName": "Test Admin",
+    "birthDate": "1991-02-28",
+    "group": {
+        "id": "64876f36a4ad2100097a4426",
+        "name": "sfdctestselectgrp",
+        "displayName": "SFDC Test Select Group"
+    },
+    "language": "en-US",
+    "role": "admin",
+    "preferences": {
+        "patientsHidden": false,
+        "weekendDigests": true,
+        "portalWelcomeDone": true,
+        "lastAnnouncement": "2023-06-12"
+    },
+    "timeZone": "US/Central"
+}

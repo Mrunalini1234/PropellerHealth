@@ -1,0 +1,22 @@
+{
+    "id": "648770d99fe68200099bc4d4",
+    "createdDate": "2023-06-12",
+    "email": "testphysicianexample@gmail.com",
+    "familyName": "Example",
+    "birthDate": "1965-08-31",
+    "givenName": "Test Physician",
+    "group": {
+        "id": "64876f36a4ad2100097a4426",
+        "name": "sfdctestselectgrp",
+        "displayName": "SFDC Test Select Group"
+    },
+    "language": "en-US",
+    "role": "practitioner",
+    "preferences": {
+        "patientsHidden": false,
+        "weekendDigests": true,
+        "portalWelcomeDone": true,
+        "lastAnnouncement": "2023-06-12"
+    },
+    "timeZone": "US/Central"
+}

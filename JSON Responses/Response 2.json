@@ -1,0 +1,25 @@
+{
+    "id": "64876f80e9a1cb0000f25f48",
+    "createdDate": "2023-06-12",
+    "email": "testcaregiverexample@gmail.com",
+    "familyName": "Example",
+    "birthDate": "1987-05-07",
+    "givenName": "Test Caregiver",
+    "group": {
+        "id": "64876f36a4ad2100097a4426",
+        "name": "sfdctestselectgrp",
+        "displayName": "SFDC Test Select Group"
+    },
+    "language": "en-US",
+    "mailingAddress": {
+        "street": "123 Main Street",
+        "street2": "APT 102",
+        "city": "Madison",
+        "stateOrRegion": "Wisconsin",
+        "stateCode": "WI",
+        "postalCode": "53703",
+        "country": "US"
+    },
+    "role": "caregiver",
+    "timeZone": "America/Chicago"
+}

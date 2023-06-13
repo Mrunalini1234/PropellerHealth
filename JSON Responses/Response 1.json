@@ -1,0 +1,27 @@
+{
+    "id": "64877036a4ad2100097a4443",
+    "createdDate": "2023-06-12",
+    "disease": "asthma",
+    "age": 28,
+    "birthDate": "1995-01-01",
+    "email": "testpatientexample@gmail.com",
+    "familyName": "Example",
+    "givenName": "Test Patient",
+    "group": {
+        "id": "64876f36a4ad2100097a4426",
+        "name": "sfdctestselectgrp",
+        "displayName": "SFDC Test Select Group"
+    },
+    "language": "en-US",
+    "mailingAddress": {
+        "street": "123 Main Street",
+        "street2": "APT 102",
+        "city": "Madison",
+        "stateOrRegion": "Wisconsin",
+        "stateCode": "WI",
+        "postalCode": "53703",
+        "country": "US"
+    },
+    "role": "patient",
+    "timeZone": "America/Chicago"
+}
